@@ -1,5 +1,9 @@
 # Sales Analytics Dashboard
 
+## Dashboard Preview
+
+![Sales Analytics Dashboard](Dashboard_Preview.png)
+
 ## Overview
 
 An interactive **Sales Analytics Dashboard** developed using Microsoft Excel to analyze sales performance, profitability, customer segments, regional performance, product categories, monthly trends, and top-performing products.
@@ -35,10 +39,24 @@ The dashboard provides analysis across:
 - **April** recorded the lowest monthly profit margin at approximately **8.41%**.
 - **Canon imageCLASS 2200 Advanced Copier** was the top-selling product in the Top 10 Products analysis, generating **61,599.82 in sales**.
 
+## Data & Analysis Process
+
+### Raw Dataset
+
+The dashboard was developed from transaction-level sales data containing order, customer, geographic, product, category, quantity, sales, and profitability-related information.
+
+![Raw Sales Data](Raw%20Data_Preview.png)
+
+### PivotTable Analysis
+
+PivotTables were used to aggregate and analyze sales performance across customer segments, regions, product categories, products, and monthly trends.
+
+![PivotTable Analysis](Pivot%20Analysis_Preview.png)
+
 ## Dashboard Features
 
 - Interactive **Month Slicer** for filtering the dashboard
-- KPI cards for Total Sales, Total Profit, Units Sold, and Profit Margin
+- KPI cards for Total Sales, Total Profit, Quantity, and Profit Margin
 - Monthly sales and profit margin trend analysis
 - Customer segment sales analysis
 - Regional sales analysis
@@ -48,9 +66,11 @@ The dashboard provides analysis across:
 ## Tools & Techniques
 
 ### Tools
+
 - Microsoft Excel
 
 ### Excel Features & Techniques
+
 - Pivot Table
 - Pivot Chart
 - Slicer
@@ -70,6 +90,9 @@ Developed an interactive Excel dashboard that consolidates sales, profitability,
 ## Repository Contents
 
 - `Case Study 2 - Sales Analytics Dashboard_Dhandy Syahmai Pattiasina. S. Mat.xlsm` — Excel dashboard and supporting workbook.
+- `Dashboard_Preview.png` — Dashboard preview.
+- `Raw Data_Preview.png` — Raw transaction data preview.
+- `Pivot Analysis_Preview.png` — PivotTable analysis preview.
 
 ## Author
 
