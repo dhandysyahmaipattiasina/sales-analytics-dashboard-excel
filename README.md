@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](Dashboard_Preview.png)
+![Sales Analytics Dashboard](Dashboard_Preview.jpg)
 
 ## Overview
 
@@ -51,7 +51,7 @@ The dashboard was developed from transaction-level sales data containing order, 
 
 PivotTables were used to aggregate and analyze sales performance across customer segments, regions, product categories, products, and monthly trends.
 
-![PivotTable Analysis](Pivot%20Analysis_Preview.png)
+![PivotTable Analysis](Pivot%20Analysis_Preview.jpg)
 
 ## Dashboard Features
 
